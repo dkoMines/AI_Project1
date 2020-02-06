@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/48246/CLionProjects/ai_project1/Road.h
+iostream
+-
+queue
+-
+fstream
+-
+string
+-
+
+C:/Users/48246/CLionProjects/ai_project1/main.cpp
+iostream
+-
+queue
+-
+fstream
+-
+string
+-
+algorithm
+-
+Road.h
+C:/Users/48246/CLionProjects/ai_project1/Road.h
+
